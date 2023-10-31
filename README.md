@@ -7,7 +7,7 @@
 본선진출조건 : 15등까지
 
 본선진출시
-
+<img width="100%" src="https://github.com/jjuhyeok/HD-AI_CHALLENGE/assets/49608953/79e812c3-1fab-44a1-be18-e5ac64883372"/>
 
 
 주최 : HD한국조선해양 AI Center
